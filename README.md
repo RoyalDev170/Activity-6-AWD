@@ -1,1 +1,1 @@
-"# Activity 6 - Application Web Design" 
+# Activity 6 - Application Web Design
